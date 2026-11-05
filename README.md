@@ -2,7 +2,7 @@
 
 This repository accompanies the EpiHEFT-CommGNN research paper. It provides the pretrained main-model checkpoint and evaluation code for the Pegasus-S main experiment, together with the HEFT_Comm, PEFT, CPOP, and IPPTS-Dyn baselines.
 
-The current release supports inference and evaluation. Additional code is being prepared for release.
+Additional code is being prepared for release.
 
 ## Repository structure
 
@@ -32,7 +32,7 @@ EPIHEFT-CommGNN/
             ├── simsetting.py          # Simulation setup
             ├── simqueue.py            # Simulation queue utilities
             ├── stats.py               # Simulation statistics
-            ├── vm.py                  # Virtual machine model
+            ├── vm.py                  # UAV Compute Virtual machine model
             └── workflow.py            # Workflow model
 ```
 
