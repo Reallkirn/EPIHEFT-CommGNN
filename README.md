@@ -2,7 +2,7 @@
 
 This repository accompanies the EpiHEFT-CommGNN research paper. It provides the pretrained main-model checkpoint and evaluation code for the Pegasus-S main experiment, together with the HEFT_Comm, PEFT, CPOP, and IPPTS-Dyn baselines.
 
-The current release supports inference and evaluation. Training scripts, training configurations, and historical evaluation results are not included. Additional code is being prepared for release.
+The current release supports inference and evaluation. Additional code is being prepared for release.
 
 ## Repository structure
 
